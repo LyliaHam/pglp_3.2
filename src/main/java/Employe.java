@@ -3,7 +3,7 @@ public class Employe extends EmployeAbstractClass {
 	protected float salaire;
 	protected int anciennete;
 
-	public employe (float salaire, int anciennete){
+	public Employe (float salaire, int anciennete){
 		this.salaire = salaire;
 		this.anciennete = anciennete;
 	}
