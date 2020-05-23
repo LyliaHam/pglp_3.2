@@ -1,2 +1,2 @@
 # pglp_3.2
-Illustration du principe de responsabilité unique (SRP)
+Illustration du principe ouvert/fermé (OCP)
